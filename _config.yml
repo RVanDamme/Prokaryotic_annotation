@@ -1,1 +1,26 @@
-theme: jekyll-theme-midnight
+site_name: Annotation_prokarotic
+nav:
+    - Home: index.md
+    - Prokaryotic annotation: proka_annot.md
+    - Eukaryotic annotation: euka_annot.md
+    - Project: project.md
+
+    
+theme: 
+  name: material
+  highlightjs: true
+  hljs_languages:
+      - yaml
+      - rust
+      - bash
+      - shell
+      - nextflow
+  features:
+    - navigation.tabs
+  palette:
+    scheme: default
+    primary: deep purple
+    accent: deep orange
+  font:
+    text: Roboto
+    code: Roboto Mono

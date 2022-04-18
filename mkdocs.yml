@@ -1,0 +1,26 @@
+site_name: Prokaryotic_annotation
+nav:
+    - Home: index.md
+    - Prokaryotic annotation: usage/proka_annot.md
+    - Eukaryotic annotation: usage/euka_annot.md
+    - Project: usage/project.md
+
+    
+theme: 
+  name: material
+  highlightjs: true
+  hljs_languages:
+      - yaml
+      - rust
+      - bash
+      - shell
+      - nextflow
+  features:
+    - navigation.tabs
+  palette:
+    scheme: default
+    primary: deep purple
+    accent: deep orange
+  font:
+    text: Roboto
+    code: Roboto Mono

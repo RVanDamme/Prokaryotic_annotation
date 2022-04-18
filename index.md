@@ -5,26 +5,26 @@
 ### Day 1:
 * Morning: 
     1. Introduction to Galaxy [here](https://training.galaxyproject.org/training-material/topics/introduction/tutorials/galaxy-intro-short/tutorial.html)
-    2. Presentation Prokaryotic annotation [here](proka_annot.md)
-    3. Prokaryotic annotation practice [here](proka_annot.md)
+    2. Presentation Prokaryotic annotation [here](usage/proka_annot.md)
+    3. Prokaryotic annotation practice [here](usage/proka_annot.md)
 * Afternoon: 
-    1. Prokaryotic annotation practice [here](proka_annot.md)
+    1. Prokaryotic annotation practice [here](usage/proka_annot.md)
 
 ### Day 2
 * Morning: 
-    1. Presentation Eukaryotic annotation [here](euka_annot.md)
-    2. Eukaryotic annotation practice [here](euka_annot.md)
+    1. Presentation Eukaryotic annotation [here](usage/euka_annot.md)
+    2. Eukaryotic annotation practice [here](usage/euka_annot.md)
 * Afternoon: 
-    1. Eukaryotic annotation practice [here](euka_annot.md)
+    1. Eukaryotic annotation practice [here](usage/euka_annot.md)
 
-### Day 3 [here](project.md)
+### Day 3 [here](usage/project.md)
 * Morning: 
     1. All-round genome annotation presentation
     2. Beginning Project
 * Afternoon: 
     1. Project work
 
-### Day 4 [here](project.md)
+### Day 4 [here](usage/project.md)
 * Morning: 
     1. Project work
 * Afternoon: 
@@ -36,18 +36,18 @@
 
 1. Register to [usegalaxy.eu](http://usegalaxy.eu/).
 
-![Galaxy1](../figures/Galaxy1.png)
+![Galaxy1](figures/Galaxy1.png)
 
-![Galaxy2](../figures/Galaxy2.png)
+![Galaxy2](figures/Galaxy2.png)
 
-![Galaxy3](../figures/Galaxy3.png)
+![Galaxy3](figures/Galaxy3.png)
 
 2. Click the verification link you will receive by email.
 
 3. Go to this [link](https://usegalaxy.eu/join-training/hehannot/) to join our training session. 
 It should say you successfully registered in HEHANNOT
 
-![Galaxy4](../figures/Galaxy4.png)
+![Galaxy4](figures/Galaxy4.png)
 
 ### Galaxy introduction
 

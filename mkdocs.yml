@@ -1,4 +1,4 @@
-site_name: Prokaryotic_annotation
+site_name: Annotation_prokarotic
 nav:
     - Home: index.md
     - Prokaryotic annotation: proka_annot.md

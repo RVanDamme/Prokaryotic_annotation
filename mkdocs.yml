@@ -1,9 +1,9 @@
 site_name: Prokaryotic_annotation
 nav:
     - Home: index.md
-    - Prokaryotic annotation: usage/proka_annot.md
-    - Eukaryotic annotation: usage/euka_annot.md
-    - Project: usage/project.md
+    - Prokaryotic annotation: proka_annot.md
+    - Eukaryotic annotation: euka_annot.md
+    - Project: project.md
 
     
 theme: 

@@ -116,15 +116,15 @@ conda create -n aligners bwa bowtie hisat star
 
 Here is a collection of materials to train and improve your conda use. All have their strength and weaknesses, the cheatsheet is your best friend when working.
 
-NBIS tutorial: https://nbis-reproducible-research.readthedocs.io/en/course_2104/conda/
+NBIS tutorial: [](https://nbis-reproducible-research.readthedocs.io/en/course_2104/conda/)
 
-Guide by Matthew Sarmiento: https://towardsdatascience.com/a-guide-to-conda-environments-bc6180fc533
-Guide by Whitebox: https://whiteboxml.com/blog/the-definitive-guide-to-python-virtual-environments-with-conda
+Guide by Matthew Sarmiento: [](https://towardsdatascience.com/a-guide-to-conda-environments-bc6180fc533)
+Guide by Whitebox: [](https://whiteboxml.com/blog/the-definitive-guide-to-python-virtual-environments-with-conda)
 
-CheatSheet: https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf
+CheatSheet: [](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf)
 
 ## Grade breakdown
 
-20% Active participation
-40% Project report
-40% Project presentation and discussion
+* 20% Active participation
+* 40% Project report
+* 40% Project presentation and discussion

@@ -15,15 +15,18 @@ Compare what are the result of the initial annotation, the "re-annotation" and y
 You can use software demonstrated in the course or any up-to-date software available online.
 
 You will then present Friday at 14:30:
+
 * The background
 * Methods
 * Results 
 * Discussions
 * The Conclusion and thought about the work.
+
 A part of your presentation **has** to be in English.
 
 Another part of this project consist in the redaction of individual report.
 The report needs to consists of:
+
 * Background/Introduction
 * Material and methods
 * Results

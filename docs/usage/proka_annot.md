@@ -1,5 +1,5 @@
 # Genome Annotation
-# Prokaryotic
+# **Prokaryotic**
 
 ## Lecture
 

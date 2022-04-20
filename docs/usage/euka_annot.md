@@ -1,5 +1,5 @@
 # Genome Annotation
-# Eukaryotic
+# **Eukaryotic**
 
 ## Lecture
 

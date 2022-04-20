@@ -1,8 +1,8 @@
 # Genome Annotation
 
-## schedule:
+## Schedule:
 
-### Day 1:
+### **Day 1**
 * Morning: 
     1. Introduction to Galaxy [here](https://training.galaxyproject.org/training-material/topics/introduction/tutorials/galaxy-intro-short/tutorial.html)
     2. Presentation Prokaryotic annotation [here](usage/proka_annot.md)
@@ -10,21 +10,25 @@
 * Afternoon: 
     1. Prokaryotic annotation practice [here](usage/proka_annot.md)
 
-### Day 2
+### **Day 2**
 * Morning: 
-    1. Presentation Eukaryotic annotation [here]usage/euka_annot.md)
+    1. Presentation Eukaryotic annotation [here](usage/euka_annot.md)
     2. Eukaryotic annotation practice [here](usage/euka_annot.md)
 * Afternoon: 
     1. Eukaryotic annotation practice [here](usage/euka_annot.md)
 
-### Day 3 [here](usage/project.md)
+### **Day 3** 
+
+[here](usage/project.md)
 * Morning: 
     1. All-round genome annotation presentation
     2. Beginning Project
 * Afternoon: 
     1. Project work
 
-### Day 4 [here](usage/project.md)
+### **Day 4**
+
+[here](usage/project.md)
 * Morning: 
     1. Project work
 * Afternoon: 
@@ -59,7 +63,7 @@ We will follow this [tutorial](https://training.galaxyproject.org/training-mater
 
 We will follow the installation recommended by bioconda [directly](https://bioconda.github.io/user/install.html)
 
-### installation of bioconda
+### Installation of bioconda
 
 1. Install conda
 

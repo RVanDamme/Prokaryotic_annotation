@@ -13,43 +13,16 @@ Prokka is a "wrapper"; it collects together several pieces of software (from var
 
 Prokka finds and annotates features (both protein coding regions and RNA genes, i.e. tRNA, rRNA) present on on a sequence. Prokka uses a two-step process for the annotation of protein coding regions: first, protein coding regions on the genome are identified using [Prodigal](http://compbio.ornl.gov/prodigal/); second, the function of the encoded protein is predicted by similarity to proteins in one of many protein or protein domain databases. Prokka is a software tool that can be used to annotate bacterial, archaeal and viral genomes quickly, generating standard output files in GenBank, EMBL and gff formats. More information about Prokka can be found [here](https://github.com/tseemann/prokka).
 
-## Input data
+## Generating a prokkaryote annotation
 
-Prokka requires assembled contigs. You can prepare you working directory for this annotation tutorial.
-
-```bash
-mkdir ~/annotation
-cd ~/annotation
-```
-
-You will download an improved assembly of *Mycoplasma genitalium* (m_genetalium_improved.fasta) into you data directory:
-
-```bash
-curl -O -J -L https://osf.io/7eaky/download
-```
-
-You will also need a proteins set specific of Mycoplasma for the annotation (uniprot_mycoplasma_reviewed.faa). Here is a file containing the Mycoplasma proteins retrieved from Swiss-Prot database (3041 sequences)
-
-```bash
-curl -O -J -L https://osf.io/xjm3n/download
-```
-
-
-## Running prokka
-
-```bash
-prokka --outdir annotation_prokka --kingdom Bacteria \
---proteins uniprot_mycoplasma_reviewed.faa m_genetalium_improved.fasta
-```
-
-Once Prokka has finished, examine each of its output files.
+Prokka Tutorial [Here](https://training.galaxyproject.org/training-material/topics/genome-annotation/tutorials/annotation-with-prokka/tutorial.html)
 
 * The GFF and GBK files contain all of the information about the features annotated (in different formats.)
 * The .txt file contains a summary of the number of features annotated.
 * The .faa file contains the protein sequences of the genes annotated.
 * The .ffn file contains the nucleotide sequences of the genes annotated.
 
-## Visualising the annotation
+### Alternate ending
 
 Artemis is a graphical Java program to browse annotated genomes. Download it [here](http://sanger-pathogens.github.io/Artemis/Artemis/) and install it on your local computer.
 
@@ -61,7 +34,12 @@ You will be overwhelmed and/or confused at first, and possibly permanently. Here
 * Click right-mouse-button on bottom panel and select Show products
 * Zooming is done via the verrtical scroll bars in the two top panels
 
-## eggNOG annotation
+## Refining the prokkaryote annotation
+
+Apollo Tutorial [Here](https://training.galaxyproject.org/training-material/topics/genome-annotation/tutorials/apollo/tutorial.html)
+
+
+## Bonus eggNOG annotation
 
 Let's run the same genome information with eggNOG:
 

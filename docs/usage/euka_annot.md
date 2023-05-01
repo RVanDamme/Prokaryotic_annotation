@@ -8,8 +8,18 @@ If you want to access the [slides](https://training.galaxyproject.org/training-m
 
 ## Pratice
 
-The course tutorial is available [here](https://training.galaxyproject.org/training-material/topics/genome-annotation/tutorials/annotation-with-maker/tutorial.html) 
+### 1. Masking repeats with Repeat Masker 
 
-To run the softwares go to this [link](https://usegalaxy.eu/join-training/hehannot/).
+[Here](https://training.galaxyproject.org/training-material/topics/genome-annotation/tutorials/repeatmasker/tutorial.html)
 
-This private Galaxy server will be available until Friday 22nd of April.
+### 2. Annotation with Maker
+
+[here](https://training.galaxyproject.org/training-material/topics/genome-annotation/tutorials/annotation-with-maker/tutorial.html) 
+
+## Bonus Refining the Maker annotation
+
+The tutorial is available [Here](https://training.galaxyproject.org/training-material/topics/genome-annotation/tutorials/apollo-euk/tutorial.html)
+
+## Bonus annotation with Funannotate
+
+The tutorial is available [Here](https://training.galaxyproject.org/training-material/topics/genome-annotation/tutorials/funannotate/tutorial.html)

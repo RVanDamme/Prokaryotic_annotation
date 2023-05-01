@@ -20,6 +20,7 @@
 ### **Day 3** 
 
 [here](usage/project.md)
+
 * Morning: 
     1. All-round genome annotation presentation
     2. Beginning Project
@@ -29,6 +30,7 @@
 ### **Day 4**
 
 [here](usage/project.md)
+
 * Morning: 
     1. Project work
 * Afternoon: 
@@ -48,7 +50,7 @@
 
 2. Click the verification link you will receive by email.
 
-3. Go to this [link](https://usegalaxy.eu/join-training/hehannot/) to join our training session. 
+3. Go to this [link](https://usegalaxy.eu/join-training/heh-annot) to join our training session. 
 It should say you successfully registered in HEHANNOT
 
 ![Galaxy4](figures/Galaxy4.png)

@@ -4,7 +4,7 @@
 
 ### **Day 1**
 * Morning: 
-    1. Introduction to Galaxy [here](https://training.galaxyproject.org/training-material/topics/introduction/tutorials/galaxy-intro-short/tutorial.html)
+    1. Introduction to Galaxy [Part1](https://training.galaxyproject.org/training-material/topics/introduction/tutorials/galaxy-intro-short/tutorial.html) and [Part2](https://training.galaxyproject.org/training-material/topics/galaxy-interface/tutorials/upload-rules/tutorial.html)
     2. Presentation Prokaryotic annotation [here](usage/proka_annot.md)
     3. Prokaryotic annotation practice [here](usage/proka_annot.md)
 * Afternoon: 

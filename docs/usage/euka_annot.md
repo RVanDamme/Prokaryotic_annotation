@@ -18,7 +18,7 @@ If you want to access the [slides](https://training.galaxyproject.org/training-m
 
 ## Composition Human Genome
 
-![Human genome composition](figures/composition_human_genome.jpg)
+![Human genome composition](../figures/composition_human_genome.jpg)
 Source [https://doi.org/10.1016/j.febslet.2004.03.109](https://doi.org/10.1016/j.febslet.2004.03.109)
 
 ## Bonus Refining the Maker annotation

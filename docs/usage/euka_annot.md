@@ -16,6 +16,11 @@ If you want to access the [slides](https://training.galaxyproject.org/training-m
 
 [here](https://training.galaxyproject.org/training-material/topics/genome-annotation/tutorials/annotation-with-maker/tutorial.html) 
 
+## Composition Human Genome
+
+![Human genome composition](figures/composition_human_genome.jpg)
+Source [https://doi.org/10.1016/j.febslet.2004.03.109](https://doi.org/10.1016/j.febslet.2004.03.109)
+
 ## Bonus Refining the Maker annotation
 
 The tutorial is available [Here](https://training.galaxyproject.org/training-material/topics/genome-annotation/tutorials/apollo-euk/tutorial.html)

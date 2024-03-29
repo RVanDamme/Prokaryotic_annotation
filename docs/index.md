@@ -50,7 +50,7 @@
 
 2. Click the verification link you will receive by email.
 
-3. Go to this [link](https://usegalaxy.eu/join-training/heh-annot) to join our training session. 
+3. Go to this [link](https://usegalaxy.eu/join-training/heh-genome) to join our training session. 
 It should say you successfully registered in HEHANNOT
 
 ![Galaxy4](figures/Galaxy4.png)
@@ -129,6 +129,6 @@ Here is a collection of materials to train and improve your conda use. All have 
 
 ## Grade breakdown
 
-* 20% Active participation
-* 40% Project report
+* 40% Active participation
+* 20% Project report
 * 40% Project presentation and discussion

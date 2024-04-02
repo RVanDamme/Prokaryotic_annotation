@@ -37,7 +37,7 @@ You will be overwhelmed and/or confused at first, and possibly permanently. Here
 ## Refining the prokkaryote annotation
 
 Apollo Tutorial [Here](https://training.galaxyproject.org/training-material/topics/genome-annotation/tutorials/apollo/tutorial.html)
-
+[Apollo practice](https://usegalaxy.eu/apollo/annotator/loadLink?loc=NC_000913.3:75609..75707&organism=5462496&tracks=2865f2fee32cb8bf6b9c6f55cad6df4e_0,028fafec2e8fc222be30ee5553614c1b_1,276298fcea47faa9ce330d02d1c5c775_0,572bd1186d72b0c9f5f9e55a70c00b74_0)
 
 ## Bonus eggNOG annotation
 

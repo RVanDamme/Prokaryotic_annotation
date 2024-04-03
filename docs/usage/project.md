@@ -14,7 +14,7 @@ You will select one genome mentioned in this "re-annotation" paper of [2002](htt
 Compare what are the result of the initial annotation, the "re-annotation" and your annotation.
 You can use software demonstrated in the course or any up-to-date software available online.
 
-You will then present Friday at 14:30:
+You will then present Friday at 15:15:
 
 * The background
 * Methods
@@ -25,6 +25,7 @@ You will then present Friday at 14:30:
 A part of your presentation **has** to be in English.
 
 Another part of this project consist in the redaction of individual report.
+The deadline to submit the report is Friday 19th April 23:59.
 The report needs to consists of:
 
 * Background/Introduction
